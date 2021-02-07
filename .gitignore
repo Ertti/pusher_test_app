@@ -1,8 +1,4 @@
-/.gradle
-/.idea
-/out
-/target
-/build
+target
+.env
+.idea/
 *.iml
-*.ipr
-*.iws
